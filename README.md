@@ -21,7 +21,7 @@
 <br> <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mageekabn&show_icons=true&locale=en&layout=compact" alt="mageekabn" /></p>
 
-<br>
+<br><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mageekabn&show_icons=true&locale=en" alt="mageekabn" /></p>
 
